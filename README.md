@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jinellie
+- 🌱 Just a college student looking to learn :)
