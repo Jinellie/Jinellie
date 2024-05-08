@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinelle Flores Etienne</h1>
-<h3 align="center">Fullstack developer and cybersecurity enthusiast 🐰</h3>
+<h3 align="center">Software developer and cybersecurity enthusiast 🐰</h3>
 
 - 🔭 I’m currently working on [DREAM Lab](https://github.com/CodeCraft-Solutions-DREAM-Lab)
 
