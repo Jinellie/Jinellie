@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinelle Flores Etienne</h1>
 <h3 align="center">Software developer and UX/UI enthusiast 🐰</h3>
 
-- 🔭 I’m currently working on [NetRisk](https://github.com/Jinellie/NetriskFrontend)
+- 🔭 I’m currently working on [NetRisk](https://github.com/AdrianETP/netrisk)
 
 - 📫 How to reach me **jinelleflores@gmail.com**
 
